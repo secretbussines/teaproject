@@ -1,0 +1,22 @@
+{
+  "name": "teaproject",
+  "version": "1.0.0",
+  "description": "an npm project for tea token airdrop",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secretbussines/teaproject.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "musa",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/secretbussines/teaproject/issues"
+  },
+  "homepage": "https://github.com/secretbussines/teaproject#readme"
+}
